@@ -18,6 +18,7 @@ import cn.itcast.ssm.service.ItemService;
 
 @Controller
 public class ItemController {
+	//加入测试
 	//注入商品  ItemService接口
 	@Autowired
 	private ItemService itemService;
